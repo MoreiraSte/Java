@@ -1,0 +1,13 @@
+amarelo
+verde
++-------------+
+yellow
+green
++-------------+
+orange
+green
++-------------+
+Rosas são vermelhas
+Violetas são azuis 
+I love you
++-------------+

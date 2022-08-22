@@ -1,0 +1,9 @@
+C:/Temp/bancodedados/cinemateca
+
+CREATE TABLE musica (
+	codigo integer primary key not null,
+	nome  varchar(45) not null,
+	estilo varchar (20) not null,
+	cantor varchar (20) not null,
+	ano varchar (10) not null
+ );

@@ -1,0 +1,5 @@
+  CREATE TABLE Aluno (
+	prontuario integer primary key not null,
+	nome varchar(45) not null
+	disciplina varchar(45),
+	media numeric(4,2) );

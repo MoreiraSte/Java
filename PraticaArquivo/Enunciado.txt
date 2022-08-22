@@ -1,0 +1,9 @@
+
+
+
+
+
+
+		->  Escrever um POEMA pelo teclado e ir escrevendo o poema em arquivo. Ao finalizar o
+		poema e ter salvo em arquivo mostre o conteúdo do arquivo com o poema. Importante,
+		pergunte o nome do arquivo ao salvar.

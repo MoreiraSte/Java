@@ -1,0 +1,13 @@
+Respostas da prática 30/11 :
+
+1) Sim
+
+2) Seguindo o funcionamento do programa, 
+podemos ver que o mesmo finaliza e saí após 
+o catch pegar e mostrar a segunda excessão
+
+3)Seguindo seu funcionamento, a sua saída é
+quando o throw cria uma nova segunda excessão
+
+4)Sua saída é quando o catch pega a excessão "a" após 
+ser criado pelo throw dentro do try

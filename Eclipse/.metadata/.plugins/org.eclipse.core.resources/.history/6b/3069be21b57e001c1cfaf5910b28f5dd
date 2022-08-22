@@ -1,0 +1,18 @@
+import javax.swing.JOptionPane;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String senhaCorreta, senhaDigitada;
+	
+		try {
+			
+			senhaDigitada = JOptionPane.showInputDialog(null, "Digite a senha: ");
+		}
+		catch(NumberFormatException e){
+			
+		}
+	}
+
+}
